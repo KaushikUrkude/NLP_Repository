@@ -1,7 +1,10 @@
-#NLP Basics Repository
-This repository contains the basic building steps for fundamental techniques in Natural Language Processing (NLP). Each Jupyter notebook covers an essential NLP technique, providing a hands-on introduction to these concepts.<br/>
 
-#Content
+# NLP Basics Repository
+
+This repository contains a series of Jupyter notebooks covering essential techniques and concepts in Natural Language Processing (NLP). It’s designed to help beginners understand and implement foundational NLP steps, including tokenization, stemming, lemmatization, and various vectorization techniques.
+
+
+## Content
 Each notebook in this repository explores a different NLP technique:
 
 **Tokenization - Splitting text into individual words or tokens**  
@@ -32,10 +35,3 @@ Word2Vec - Embedding words based on contextual similarity
 
 Word Embedding Techniques - Overview of various word representation methods
 8_Word_embedding_Techniques_NLP.ipynb
-Word2Vec
-
-7_Word2Vec_NLP.ipynb
-Word Embedding Techniques
-
-8_Word_embedding_Techniques_NLP.ipynb
-This repository serves as an introductory guide for those looking to understand and implement foundational NLP techniques.
