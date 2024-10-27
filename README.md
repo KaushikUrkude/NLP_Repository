@@ -20,19 +20,20 @@ Each notebook in this repository explores a different NLP technique:
 4_Stopwords_NLP.ipynb
 
 **Vectorization Techniques:<br/>**
-**Bag of Words - Converting text into a frequency-based vector representation**
+**Bag of Words - Converting text into a frequency-based vector representation**<br/>
 5_1_Vectorization_Bag__of_words.ipynb
 
-N-gram Bag of Words - Representing text with consecutive word combinations
+**N-gram Bag of Words - Representing text with consecutive word combinations<br/>**
 5_2_Vectorization_Bag__of_words_N_gram.ipynb
-TF-IDF - Transforming text based on term frequency and inverse document frequency
+
+**TF-IDF - Transforming text based on term frequency and inverse document frequency<br/>**
 5_3_Vectorization_TF_IDF_NLP.ipynb
 
-Parts of Speech Tagging - Identifying grammatical parts of each word in a sentence
+**Parts of Speech Tagging - Identifying grammatical parts of each word in a sentence<br/>**
 6_Parts_of_Speech_NLP.ipynb
 
-Word2Vec - Embedding words based on contextual similarity
+**Word2Vec - Embedding words based on contextual similarity<br/>**
 7_Word2Vec_NLP.ipynb
 
-Word Embedding Techniques - Overview of various word representation methods
+**Word Embedding Techniques - Overview of various word representation methods<br/>**
 8_Word_embedding_Techniques_NLP.ipynb
