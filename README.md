@@ -16,12 +16,13 @@ Each notebook in this repository explores a different NLP technique:
 **Lemmatization - Grouping words based on their dictionary form**  
 3_Lemmatization_NLP.ipynb
 
-**Stopwords Removal - Filtering out common words that don’t carry significant meaning**
+**Stopwords Removal - Filtering out common words that don’t carry significant meaning**<br/>
 4_Stopwords_NLP.ipynb
 
-**Vectorization Techniques:**<br/>
-Bag of Words - Converting text into a frequency-based vector representation
+**Vectorization Techniques:<br/>**
+**Bag of Words - Converting text into a frequency-based vector representation**
 5_1_Vectorization_Bag__of_words.ipynb
+
 N-gram Bag of Words - Representing text with consecutive word combinations
 5_2_Vectorization_Bag__of_words_N_gram.ipynb
 TF-IDF - Transforming text based on term frequency and inverse document frequency
