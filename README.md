@@ -37,3 +37,24 @@ Each notebook in this repository explores a different NLP technique:
 
 **Word Embedding Techniques - Overview of various word representation methods<br/>**
 8_Word_embedding_Techniques_NLP.ipynb
+
+## Getting Started
+
+To run this project
+
+```bash
+  git clone https://github.com/KaushikUrkude/NLP_Repository.git
+cd NLP-Basics
+```
+
+Install dependencies:<br/>
+1.Use pip to install any necessary libraries (such as nltk, sklearn, or gensim), as listed in each notebook.
+
+Open Jupyter notebooks:<br/>
+2.Start Jupyter Notebook or Jupyter Lab and open any notebook for step-by-step NLP implementation.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+This repository is licensed under the MIT License
