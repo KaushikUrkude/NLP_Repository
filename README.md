@@ -1,4 +1,5 @@
 **NLP Basics Repository**
+
 This repository contains the basic building steps for fundamental techniques in Natural Language Processing (NLP). Each Jupyter notebook covers an essential NLP technique, providing a hands-on introduction to these concepts.
 
 Contents
